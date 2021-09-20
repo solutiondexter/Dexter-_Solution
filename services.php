@@ -4,7 +4,7 @@ require_once("header.php");
 		<div id="colorlib-services">
 			<div class="container">
 				<div class="row text-center">
-					<h2 class="bold">Services</h2>
+					<h2 class="bold">Solution/Services</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
@@ -20,7 +20,7 @@ require_once("header.php");
 								<div class="row">
 									<div class="col-md-12">
 										<div class="rotate">
-											<h2 class="heading">Services</h2>
+											<h2 class="heading">Solution/Services</h2>
 										</div>
 									</div>
 									<div class="col-md-6">
@@ -31,15 +31,15 @@ require_once("header.php");
 												<li>PHP & Mysql</li>
 												<li>JS &amp; Jquery Startup</li>
 												<li>WordPress</li>
-												<li>Jomla</li>
 											</ul>
 										</div>
 										<div class="services animate-box">
 											<h3>3 - Support & Services</h3>
 											<ul>
-												<li>System Support &amp; Troubleshooting </li>
-												<li>Network Support &amp; Troubleshooting</li>
-												<li>Printer Support &amp; Troubleshooting</li>
+												<li>System Support &amp; Service </li>
+												<li>Network Support &amp; Service</li>
+												<li>CCTV/IP Camera &amp; Service</li>
+												<li>Printer Support &amp; Service</li>
 											</ul>
 										</div>
 									</div>
@@ -50,6 +50,7 @@ require_once("header.php");
 												<li>New Branded System / Assembled System </li>
 												<li>System on Rent</li>
 												<li>Network / System Parts</li>
+												<li>CCTV/IP Camera</li>
 												<li>Antivirus / Other Licences Software</li>
 												<li>Server System</li>
 											</ul>
